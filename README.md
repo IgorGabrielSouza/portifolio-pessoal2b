@@ -28,11 +28,11 @@ As funçãos não vão nada além da capa do site
 * ``HTML``
 * ``CSS``
 * ``VC CODE``
-## Fontes consultadas 
 
+## Fontes consultadas 
 https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89
 https://www.alura.com.br/artigos/escrever-bom-readme
-## Autores
 
+## Autores
 eu Igor Gabriel fiz o portifolio pessoal com a ajuda do professor Leonardo Roja 
 
